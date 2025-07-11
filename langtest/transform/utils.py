@@ -259,7 +259,7 @@ class RepresentationOperation:
 
     @staticmethod
     def get_entity_representation_proportions(
-        entity_representation: Dict[str, int]
+        entity_representation: Dict[str, int],
     ) -> Dict[str, float]:
         """Calculates the proportions of each entity in the representation.
 
