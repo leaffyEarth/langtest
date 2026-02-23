@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 style="text-align: center; vertical-align: middle;">LangTest  Deliver Safe & Effective Language Models</h1>
+  <h1 style="text-align: center; vertical-align: middle;">LangTest:  Deliver Safe & Effective Language Models</h1>
 </div>
 
 <p align="center">
